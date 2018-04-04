@@ -4,6 +4,9 @@
 #target
 target/
 
+#claspath
+.classpath
+
 # Log file
 *.log
 
